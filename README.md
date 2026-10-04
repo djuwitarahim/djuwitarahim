@@ -10,3 +10,7 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="30"/>
 
 </div>
+
+<div align="center">
+<sub> Business Analytics · Finance · AI · Research</sub>
+</div>
